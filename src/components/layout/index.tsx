@@ -1,4 +1,3 @@
-import { R } from 'node_modules/@tanstack/react-query-devtools/build/modern/ReactQueryDevtools-Cn7cKi7o';
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 
