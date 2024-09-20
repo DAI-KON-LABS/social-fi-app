@@ -22,7 +22,8 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "thirdweb": "^5.57.3"
   },
   "engines": {
     "node": ">=22.8.0",
